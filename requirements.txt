@@ -1,0 +1,7 @@
+numpy
+pybullet
+scipy==1.8.0
+networkx
+seaborn
+tqdm
+torch
